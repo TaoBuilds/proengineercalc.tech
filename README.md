@@ -1,5 +1,10 @@
 # ProEngineerCalc
 
+This repository contains the initial version. The maintained project, current
+calculator tests, and updates are in [TaoBuilds/proengineercalc.xyz](https://github.com/TaoBuilds/proengineercalc.xyz).
+
+[Open the current calculator toolbox](https://www.proengineercalc.xyz/).
+
 Professional engineering calculator tools website built with Next.js.
 
 ## Features
